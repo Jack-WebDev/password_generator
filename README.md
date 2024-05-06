@@ -1,8 +1,5 @@
 # Password Generator App
 
-![](./screenshot.png)
-
-
 ## Challenge
 
 Users should be able to:
@@ -13,19 +10,11 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Links
-
-- [Solution](https://www.frontendmentor.io/solutions/password-generator-app-gg4S2VfdYH)
-- [Live Site](https://randpass-fm.netlify.app/)
-
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Javascript
-- Flexbox
-- Desktop-first workflow
+- Next.js 14
+- Shadcn
 
 ## Author
 
-- Frontend Mentor [@Isaiah-B](https://www.frontendmentor.io/profile/Isaiah-B)
+- [LinkedIn](https://www.linkedin.com/in/katlegomabaso/)

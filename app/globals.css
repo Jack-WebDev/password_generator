@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+/* styles.css */
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 9999px; /* to make it round */
+    background-color: black; /* black track */
+    outline: none; /* remove default focus */
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px; /* width of the thumb */
+    height: 20px; /* height of the thumb */
+    border-radius: 50%; /* to make it round */
+    background-color: white; /* white thumb */
+    cursor: pointer; /* show pointer cursor */
+  }
+  
